@@ -20,36 +20,9 @@
 
 ## 🛒 서비스 소개
 
-### 로딩 페이지
-
-![](./images/loading.gif)
-
-### 메인 페이지
-
-로그인 안 한 상태 <br />
-![](./images/main-1.png) <br />
-로그인 한 상태 <br />
-![](./images/main-2.png)<br />
-검색 <br />
-![](./images/search.gif)<br />
-![](./images/cartfavor.gif)
-
 ### 전체 상품 페이지
 
 ![](./images/allproduct.gif)
-
-### 카테고리 별 페이지
-
-![](./images/category.gif)
-
-### 마이 페이지
-
-![](./images/favor-1.gif)
-![](./images/pwtest.gif)
-
-### 장바구니 페이지
-
-![](./images/cart.png)
 
 ### 상세 페이지
 
@@ -72,13 +45,6 @@
     - 구성원들과 스타일 통일하기
     - api 함수의 관리
     - axios interceptor 의 사용
-
-<hr />
-
-- 토큰이 만료되었을 때 자동으로 로그아웃이 되지 않습니다.
-- 로그인을 했을 때 새로고침을 해 줘야만 해당 유저에 관한 정보값이 들어오게 되었습니다.
-- 결제 기능이 없어서 이용 중인 대출에 대한 부분은 하드 코딩 되어 있습니다.
-- 정적 파일을 이용하는 방식 때문에 로딩 페이지에서 배경이 사라지는 오류가 있습니다.
 
 ## 팀 소개
 
